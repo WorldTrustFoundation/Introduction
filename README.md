@@ -6,7 +6,7 @@ Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et
 
 ![](https://nicolasloubet.gitbooks.io/fork-the-world/assets/forktheworld_catalogue.jpg)
 
-Aussi, cette **organisation (via) GitHub** se destine à faciliter l'essaimage et enrichissement de l'expositon. Sont mis à diposition : 
+Cette **organisation (via) GitHub** se destine à faciliter l'essaimage et enrichissement de l'expositon. Sont mis à diposition : 
 * 📓 [Un répertoire dédié aux ressources de l'exposition 'Fork The World'](https://github.com/WorldTrustFoundation/Exposition)
 * 📋 [Un répertoire dédié à l'organisation des efforts de contribution](https://github.com/WorldTrustFoundation/Coordination)
 * 💻 [Un répertoire dédié au suivi (libre) des efforts de contribution](https://github.com/WorldTrustFoundation/Contribution)
