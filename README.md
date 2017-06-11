@@ -1,4 +1,4 @@
-
+> ATTENTION : la World Trust Foundation ne REMPLACE SURTOUT PAS l'encyclopédique libre [Movilab](http://movilab.org/index.php?title=Accueil) dédiée aux connaissance tiers-lieux. Elle n'a pour seul objectif... l'essaimage et l'enrichissement de l'exposition Fork The World.
 
 # Introduction
 
@@ -12,5 +12,3 @@ Cette organisation GitHub se destine à faciliter l'essaimage et enrichissement 
 * 💻 [Un répertoire dédié au suivi (libre) des efforts de contribution](https://github.com/WorldTrustFoundation/Contribution)
 * 🤑 [un répertoire dédié au suivi comptable des flux d'argent](https://github.com/WorldTrustFoundation/Finances)
 * 💼 [Un répertoire dédié aux ressources de la World Trust Foundation](https://github.com/WorldTrustFoundation/Ressources)
-
-
