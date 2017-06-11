@@ -1,2 +1,14 @@
 # Introduction
-👊 Ce répertoire est dédié à l'accueil des curieux.ses.
+
+Sous l’impulsion des "co-commissaires" Yoann Duriaux (OpenFactory, Movilab) et Sylvia Fredriksson (Open Knowledge, Cité du Design), plusieurs contributeurs du [réseau Tiers-Lieux](https://www.facebook.com/groups/tilios/) - avec l'appui des [designers de RDC](https://vimeo.com/200720088) - se sont fédérés en [_**World Trust Foundation**_](https://www.flickr.com/photos/sylviafredriksson/albums/72157678188984663) pour s’exprimer du 9 mars au 9 avril 2017 sur la [**10e Biennale de Design de Saint-Etienne**](http://www.biennale-design.com/saint-etienne/2017/fr/home/) consacrée aux "mutations du travail". Le défi : montrer les **processus** **Tiers-Lieux** et proposer une "codification" \(empirique et modifiable\) au service de leur déploiement et pérennisation partout où le contexte de transition le nécessite.
+
+![](https://nicolasloubet.gitbooks.io/fork-the-world/assets/forktheworld_catalogue.jpg)
+
+Aussi, cette organisation se destine à faciliter l'essaimge et enrichissement de l'expositon en mettant à disposition plusieurs répertoires : 
+* 📓 [Un répertoire dédié aux ressources de l'exposition 'Fork The World'](https://github.com/WorldTrustFoundation/Exposition)
+* 📋 [Un répertoire dédié à l'organisation des efforts de contribution](https://github.com/WorldTrustFoundation/Coordination)
+* 💻 [Un répertoire dédié au suivi (libre) des efforts de contribution](https://github.com/WorldTrustFoundation/Contribution)
+* 🤑 [un répertoire dédié au suivi comptable des flux d'argent](https://github.com/WorldTrustFoundation/Finances)
+* 💼 [Un répertoire dédié aux ressources de la World Trust Foundation](https://github.com/WorldTrustFoundation/Ressources)
+
+
