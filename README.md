@@ -10,5 +10,5 @@ Cette **organisation (via) GitHub** se destine à faciliter l'essaimage et enric
 * 📓 [Un répertoire dédié aux ressources de l'exposition 'Fork The World'](https://github.com/WorldTrustFoundation/Exposition)
 * 📋 [Un répertoire dédié à l'organisation des efforts de contribution](https://github.com/WorldTrustFoundation/Coordination)
 * 💻 [Un répertoire dédié au suivi (libre) des efforts de contribution](https://github.com/WorldTrustFoundation/Contribution)
-* 🤑 [un répertoire dédié au suivi comptable des flux d'argent](https://github.com/WorldTrustFoundation/Finances)
+* 🤑 [un répertoire dédié au suivi comptable des circulations d'argent](https://github.com/WorldTrustFoundation/Finances)
 * 💼 [Un répertoire dédié aux ressources de la World Trust Foundation](https://github.com/WorldTrustFoundation/Ressources)
